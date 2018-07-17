@@ -1,0 +1,2 @@
+Используем модуль npm install nodemon
+Запуск модуля вместо node myapp.js используем nodemon myapp.js
